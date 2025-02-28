@@ -1,0 +1,58 @@
+{
+  "videoAds": [
+    {
+      "id": "v001",
+      "campaignId": "c001",
+      "title": "Summer Deals Promo",
+      "duration": 30,
+      "thumbnail": "https://via.placeholder.com/320x180?text=Summer+Promo",
+      "videoUrl": "https://example.com/videos/summer-promo.mp4",
+      "targetAudience": ["18-34", "shoppers", "mobile users"]
+    },
+    {
+      "id": "v002",
+      "campaignId": "c001",
+      "title": "Beach Collection",
+      "duration": 15,
+      "thumbnail": "https://via.placeholder.com/320x180?text=Beach+Collection",
+      "videoUrl": "https://example.com/videos/beach-collection.mp4",
+      "targetAudience": ["25-40", "fashion", "summer"]
+    },
+    {
+      "id": "v003",
+      "campaignId": "c002",
+      "title": "UltraView Pro - Features",
+      "duration": 45,
+      "thumbnail": "https://via.placeholder.com/320x180?text=UltraView+Features",
+      "videoUrl": "https://example.com/videos/ultraview-features.mp4",
+      "targetAudience": ["25-50", "tech enthusiasts", "professionals"]
+    },
+    {
+      "id": "v004",
+      "campaignId": "c002",
+      "title": "UltraView Pro - Testimonials",
+      "duration": 60,
+      "thumbnail": "https://via.placeholder.com/320x180?text=UltraView+Testimonials",
+      "videoUrl": "https://example.com/videos/ultraview-testimonials.mp4",
+      "targetAudience": ["30-55", "business users", "tech buyers"]
+    },
+    {
+      "id": "v005",
+      "campaignId": "c003",
+      "title": "Holiday Gift Guide",
+      "duration": 30,
+      "thumbnail": "https://via.placeholder.com/320x180?text=Holiday+Gift+Guide",
+      "videoUrl": "https://example.com/videos/holiday-guide.mp4",
+      "targetAudience": ["all ages", "holiday shoppers", "gift givers"]
+    },
+    {
+      "id": "v006",
+      "campaignId": "c004",
+      "title": "Brand Story",
+      "duration": 90,
+      "thumbnail": "https://via.placeholder.com/320x180?text=Brand+Story",
+      "videoUrl": "https://example.com/videos/brand-story.mp4",
+      "targetAudience": ["all demographics", "new customers", "brand discovery"]
+    }
+  ]
+}

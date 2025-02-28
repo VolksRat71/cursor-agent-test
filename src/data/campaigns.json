@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "id": "c001",
+      "name": "Summer Sale Promotion",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-31",
+      "budget": 25000,
+      "spent": 18750,
+      "status": "active"
+    },
+    {
+      "id": "c002",
+      "name": "Product Launch - UltraView Pro",
+      "startDate": "2023-07-15",
+      "endDate": "2023-10-15",
+      "budget": 50000,
+      "spent": 22500,
+      "status": "active"
+    },
+    {
+      "id": "c003",
+      "name": "Holiday Special",
+      "startDate": "2023-11-01",
+      "endDate": "2023-12-31",
+      "budget": 35000,
+      "spent": 0,
+      "status": "scheduled"
+    },
+    {
+      "id": "c004",
+      "name": "Brand Awareness Q2",
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-30",
+      "budget": 18000,
+      "spent": 18000,
+      "status": "completed"
+    }
+  ]
+}
