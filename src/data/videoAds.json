@@ -5,7 +5,7 @@
       "campaignId": "c001",
       "title": "Summer Deals Promo",
       "duration": 30,
-      "thumbnail": "https://via.placeholder.com/320x180?text=Summer+Promo",
+      "thumbnail": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "videoUrl": "https://example.com/videos/summer-promo.mp4",
       "targetAudience": ["18-34", "shoppers", "mobile users"]
     },
@@ -14,7 +14,7 @@
       "campaignId": "c001",
       "title": "Beach Collection",
       "duration": 15,
-      "thumbnail": "https://via.placeholder.com/320x180?text=Beach+Collection",
+      "thumbnail": "https://images.pexels.com/photos/1152359/pexels-photo-1152359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "videoUrl": "https://example.com/videos/beach-collection.mp4",
       "targetAudience": ["25-40", "fashion", "summer"]
     },
@@ -23,7 +23,7 @@
       "campaignId": "c002",
       "title": "UltraView Pro - Features",
       "duration": 45,
-      "thumbnail": "https://via.placeholder.com/320x180?text=UltraView+Features",
+      "thumbnail": "https://images.pexels.com/photos/5155325/pexels-photo-5155325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "videoUrl": "https://example.com/videos/ultraview-features.mp4",
       "targetAudience": ["25-50", "tech enthusiasts", "professionals"]
     },
@@ -32,7 +32,7 @@
       "campaignId": "c002",
       "title": "UltraView Pro - Testimonials",
       "duration": 60,
-      "thumbnail": "https://via.placeholder.com/320x180?text=UltraView+Testimonials",
+      "thumbnail": "https://images.pexels.com/photos/2422280/pexels-photo-2422280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "videoUrl": "https://example.com/videos/ultraview-testimonials.mp4",
       "targetAudience": ["30-55", "business users", "tech buyers"]
     },
@@ -41,7 +41,7 @@
       "campaignId": "c003",
       "title": "Holiday Gift Guide",
       "duration": 30,
-      "thumbnail": "https://via.placeholder.com/320x180?text=Holiday+Gift+Guide",
+      "thumbnail": "https://images.pexels.com/photos/386000/pexels-photo-386000.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "videoUrl": "https://example.com/videos/holiday-guide.mp4",
       "targetAudience": ["all ages", "holiday shoppers", "gift givers"]
     },
@@ -50,7 +50,7 @@
       "campaignId": "c004",
       "title": "Brand Story",
       "duration": 90,
-      "thumbnail": "https://via.placeholder.com/320x180?text=Brand+Story",
+      "thumbnail": "https://images.pexels.com/photos/1878821/pexels-photo-1878821.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "videoUrl": "https://example.com/videos/brand-story.mp4",
       "targetAudience": ["all demographics", "new customers", "brand discovery"]
     }
